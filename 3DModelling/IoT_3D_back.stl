@@ -1,0 +1,86 @@
+solid IoT_3D_back
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 94.0 62.5 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 62.5 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 94.0 62.5 0.0
+    vertex 94.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 0.0 0.0 0.8000000000000002
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 94.0 62.5 0.8000000000000002
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 94.0 62.5 0.0
+    vertex 0.0 62.5 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 94.0 62.5 0.0
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 94.0 62.5 0.8000000000000002
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 94.0 62.5 0.0
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 94.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 94.0 62.5 0.0
+    vertex 94.0 62.5 0.8000000000000002
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 0.0 0.0 0.0
+    vertex 94.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 94.0 0.0 0.8000000000000002
+    vertex 0.0 0.0 0.8000000000000002
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 0.8000000000000002
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 62.5 0.8000000000000002
+    vertex 0.0 62.5 0.0
+  endloop
+endfacet
+endsolid IoT_3D_back
